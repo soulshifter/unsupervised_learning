@@ -1,5 +1,7 @@
 # unsupervised_learning
 Clustering approach for deduplication.
+NOTE : My version of code for assignment task is dedupe_old.py. dedupe.py is the updated code involvivng other contributors.
+
 
 # PROJECT DESCRIPTION
 1) The following project is a part of Innovaccer.Inc.
